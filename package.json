@@ -1,0 +1,18 @@
+{
+  "name": "visualthinking",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "students.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "author": "Alex Ramirez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
