@@ -4,7 +4,7 @@ describe("Test for StudentController", () => {
 
     test("1. Obtiene todos los estudiantes", () => {
         const students = StudentController.getAllStudents();
-        expect(students.length).toBe(50);
+        expect(students.length).toBe(51);
     }),
 
     test("2. Obtiene los emails de los estudiantes con certificacion", () => {
