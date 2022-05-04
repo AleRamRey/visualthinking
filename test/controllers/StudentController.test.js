@@ -15,6 +15,6 @@ describe("Test for StudentController", () => {
     test("3. Obtiene los estudiantes con creditos mayores de 500",()=>{
         const students = StudentController.getStudentsWithMoreThan500Credits();
         expect(students.length).toBe(27);        
-    })
+    });
 
 });
