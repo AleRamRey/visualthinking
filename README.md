@@ -9,7 +9,8 @@
 ### 4. CommonJS exportar e importar modulos
 ### 5. API creación de endpoints estuduantes
 ### 6. Instalación de servidor express
-### 7. GitHub Actions pruebas automatizadas
+### 7. Eslint revisor de código  
+### 8. GitHub Actions pruebas automatizadas
 
 ## _REQUERIMIENTOS_
 
@@ -38,4 +39,8 @@
 
 ## _MANAUAL DE INSTALACIÓN_
 
+### 1. Sigue los pasos que a continuación se describen 
 
+https://docs.github.com/es/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop
+
+### para clonar repositorio https://github.com/AleRamRey/visualthinking/master
